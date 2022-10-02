@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ameer-guess-the-word/static/css/main.b8d3ab58.css",
+    "main.js": "/ameer-guess-the-word/static/js/main.bcf44268.js",
+    "index.html": "/ameer-guess-the-word/index.html",
+    "main.b8d3ab58.css.map": "/ameer-guess-the-word/static/css/main.b8d3ab58.css.map",
+    "main.bcf44268.js.map": "/ameer-guess-the-word/static/js/main.bcf44268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8d3ab58.css",
+    "static/js/main.bcf44268.js"
+  ]
+}
